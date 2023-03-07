@@ -1,1 +1,1 @@
-{"name":"QR - ENC","icons":[{"src":"favicon.svg","purpose":"any maskable monochrome","sizes":"16x16 32x32 64x64 128x128 256x256 512x512"}],"start_url":".","display":"standalone"}
+{"name":"QR - ENC","icons":[{"src":"favicon.svg","purpose":"any maskable monochrome","sizes":"16x16 32x32 64x64 128x128 256x256 512x512"}],"start_url":".","share_target":{"action":".","method":"POST","enctype":"multipart/form-data","params":{"title":"title","text":"text","url":"url","files":[{"name":"files","accept":"*"}]}},"display":"standalone"}
